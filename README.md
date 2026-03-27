@@ -1,1 +1,1 @@
-# RTA_AY
+# Real-Time Analytics - Course Repository
